@@ -3,11 +3,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="CsP61LIKQYJ1_VGig6iXCbHw4pqZI1VgCOfrWp4G4wY" />
+    <!-- Mã xác minh Google Search Console của bạn -->
+    <meta name="google-site-verification" content="CsP61LIKQYJ1_VGig6iXCbHw4pqZl1VgCOfrWp4G4wY" />
     <title>Cherry Store - Thời Trang Cho Bé</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background-color: #fff5f7; color: #333; }
+        header { background: linear-gradient(135deg, #ff758c, #ff7eb3); color: white; text-align: center; padding: 40px 20px; }
+        header h1 { font-size: 2.5rem; margin-bottom: 10px; }
+        header p { font-size: 1.2rem; opacity: 0.9; }
+        .container { max-width: 1100px; margin: 30px auto; padding: 0 20px; }
+        .section-title { text-align: center; margin-bottom: 30px; color: #d81b60; font-size: 1.8rem; }
+        .products { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px; }
+        .product-card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); text-align: center; padding-bottom: 20px; transition: transform 0.3s; }
+        .product-card:hover { transform: translateY(-5px); }
+        .product-card img { width: 100%; height: 280px; object-fit: cover; }
+        .product-card h3 { margin: 15px 0 10px; color: #333; font-size: 1.2rem; }
+        .price { color: #e91e63; font-weight: bold; font-size: 1.2rem; margin-bottom: 15px; }
+        .btn-buy { background-color: #ff4081; color: white; border: none; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-weight: bold; text-decoration: none; display: inline-block; }
+        .btn-buy:hover { background-color: #c2185b; }
+        footer { background-color: #333; color: white; text-align: center; padding: 20px; margin-top: 40px; }
+    </style>
 </head>
 <body>
-    <h1>Chào mừng đến với Cherry Store</h1>
-    <p>Chuyên váy công chúa Elsa & thời trang trẻ em cao cấp.</p>
+
+    <header>
+        <h1>🍒 CHERRY STORE 🍒</h1>
+        <p>Thời Trang Trẻ Em Cao Cấp & Váy Công Chúa Elsa</p>
+    </header>
+
+    <div class="container">
+        <h2 class="section-title">Sản Phẩm Nổi Bật</h2>
+        
+        <div class="products">
+            <!-- Sản phẩm 1 -->
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?w=500" alt="Váy Công Chúa Elsa">
+                <h3>Váy Công Chúa Elsa Cao Cấp</h3>
+                <div class="price">250.000 đ</div>
+                <a href="#" class="btn-buy">Xem chi tiết</a>
+            </div>
+
+            <!-- Sản phẩm 2 -->
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?w=500" alt="Đầm Xòe Dự Tiệc">
+                <h3>Đầm Xòe Dự Tiệc Cho Bé Gái</h3>
+                <div class="price">320.000 đ</div>
+                <a href="#" class="btn-buy">Xem chi tiết</a>
+            </div>
+
+            <!-- Sản phẩm 3 -->
+            <div class="product-card">
+                <img src="https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=500" alt="Bộ Đồ Bé Trai">
+                <h3>Bộ Đồ Phong Cách Bé Trai</h3>
+                <div class="price">190.000 đ</div>
+                <a href="#" class="btn-buy">Xem chi tiết</a>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2026 Cherry Store - Chuyên Thời Trang Trẻ Em</p>
+    </footer>
+
 </body>
 </html>
