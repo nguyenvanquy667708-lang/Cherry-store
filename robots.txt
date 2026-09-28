@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/sitemap_index.xml
+Sitemap: https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/sitemap_index.xml

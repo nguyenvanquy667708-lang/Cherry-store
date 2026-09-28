@@ -118,7 +118,7 @@
 								This KML file contains <xsl:value-of select="count(kml:kml/kml:Document/kml:Folder/kml:Placemark)"/> Locations.
 							</p>
 							<p class="expl">
-								<a href="https://https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/sitemap_index.xml">← Chỉ mục Sơ đồ trang web</a>							</p>
+								<a href="https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/sitemap_index.xml">← Chỉ mục Sơ đồ trang web</a>							</p>
 							<table id="sitemap" cellpadding="3">
 								<thead>
 									<tr>
@@ -213,7 +213,7 @@
 									Sơ đồ trang web XML này chứa <strong><xsl:value-of select="count(sitemap:urlset/sitemap:url)"/></strong> URL.								</p>
 
 								<p class="expl">
-									<a href="https://https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/sitemap_index.xml">← Chỉ mục Sơ đồ trang web</a>								</p>
+									<a href="https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/sitemap_index.xml">← Chỉ mục Sơ đồ trang web</a>								</p>
 
 								<table id="sitemap" cellpadding="3">
 
