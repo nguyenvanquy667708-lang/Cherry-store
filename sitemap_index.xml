@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://nguyenvanquy667708-lang.github.io/Cherry-store/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/post-sitemap.xml</loc>
+		<loc>https://nguyenvanquy667708-lang.github.io/Cherry-store/post-sitemap.xml</loc>
 		<lastmod>2026-09-21T12:05:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/page-sitemap.xml</loc>
+		<loc>https://nguyenvanquy667708-lang.github.io/Cherry-store/page-sitemap.xml</loc>
 		<lastmod>2026-10-07T12:54:43+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/product-sitemap.xml</loc>
+		<loc>https://nguyenvanquy667708-lang.github.io/Cherry-store/product-sitemap.xml</loc>
 		<lastmod>2026-10-01T14:16:27+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/category-sitemap.xml</loc>
+		<loc>https://nguyenvanquy667708-lang.github.io/Cherry-store/category-sitemap.xml</loc>
 		<lastmod>2026-09-21T12:05:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://nguyenvanquy667708-lang.github.io/Cherry-store-.github.io/product_cat-sitemap.xml</loc>
+		<loc>https://nguyenvanquy667708-lang.github.io/Cherry-store/product_cat-sitemap.xml</loc>
 		<lastmod>2026-10-01T14:16:27+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
